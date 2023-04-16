@@ -6,10 +6,18 @@ Rename this file in the format `yourRollNumber_solution.md` (example, `220000_so
 
 ## Your zeroth approach below
 
-Reasoning - %%% Type your approach here %%%
+Reasoning - I included string library to be able to use string keyword.
+Then since argc is a count so changed its datype to int and since argv is a pointer to a pointer of char so  I used ** .
+and changed ved's type from int array to string.
+
 
 ```
-%%% Replace this with the 0th challenge answer %%%
+%%% 
+0th challenge answer:The answer of this challenge is output of "man" when run on the terminal, copy the exact output.
+
+What manual page do you want?
+For example, try 'man man'.
+%%%
 ```
 
 ---
@@ -45,10 +53,10 @@ Reasoning - %%% Type your approach here %%%
 ---
 
 
-- Name :
-- Roll :
-- GitHub username:
-- Discord username:
+- Name :soumya gupta
+- Roll :221077
+- GitHub username:soumyagupta5643
+- Discord username:Soumya gupta#2578
 
 
 ## Do not tamper below this line
